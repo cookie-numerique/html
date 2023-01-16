@@ -3,3 +3,27 @@
   background-color: red;
   color: white;
 }
+
+.container {
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 15px;
+  width: fit-content;
+  height: 500px;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.corps-article {
+  font-style: italic;
+  color: rgb(75, 75, 75);
+}
+
+#img-google {
+  width: 246px;
+}
